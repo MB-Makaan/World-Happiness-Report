@@ -6,7 +6,8 @@ If so what factors most contribute to happiness? This is exactly the question I 
 measure of happiness called Ladder. Ladder is is measured by several contributing factors, the result being nations
 that are happier and nations that are not. This was done by using a heatmap to show the overall correalations in the data.
 Following that several visualizations are used to show the relationship of factors with Overall Happiness.
-Finally the top 10 scoring countries are analysed based on these same factors to find if there are any significant trends or outliers.
+Finally the top 10 scoring countries and then the bottom 10 scoring countries are analysed based on these same factors to 
+find if there are any significant trends or outliers.
 This Data was pulled from Kaggle, and the whole dataset was used for overall analysis.
 It was structured using SQLite while MatPlotLib and Seaborn were used for visualization.
 
@@ -30,6 +31,6 @@ Corruption - The extent to which Perception of Corruption contributes to Happine
 
 Generosity - The extent to which Generosity contributed to the calculation of the Happiness Score.
 
-Log of GDP per Capita/GDP Relation to Happiness - The extent to which GDP contributes to the calculation of the Happiness Score.
+Log of GDP per Capita/GDP in Relation to Happiness - The extent to which GDP contributes to the calculation of the Happiness Score.
 
 Healthy Life Expectancy - The extent to which Life expectancy contributed to the calculation of the Happiness Score.
