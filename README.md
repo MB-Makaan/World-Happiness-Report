@@ -4,7 +4,10 @@
 This is a study over the classic question, "What is it that Defines Happiness?" Is happiness something that can be measured?
 If so what factors most contribute to happiness? This is exactly the question I would like to ask. In this Dataset there is a 
 measure of happiness called Ladder. Ladder is is measured by several contributing factors, the result being nations
-that are happier and nations that are not. This Data was pulled from Kaggle, and the whole dataset was used for overall analysis.
+that are happier and nations that are not. This was done by using a heatmap to show the overall correalations in the data.
+Following that several visualizations are used to show the relationship of factors with Overall Happiness.
+Finally the top 10 scoring countries are analysed based on these same factors to find if there are any significant trends or outliers.
+This Data was pulled from Kaggle, and the whole dataset was used for overall analysis.
 It was structured using SQLite while MatPlotLib and Seaborn were used for visualization.
 
 Glossary
