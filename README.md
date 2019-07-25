@@ -9,7 +9,8 @@ It was structured using SQLite while MatPlotLib and Seaborn were used for visual
 
 Glossary
 
-CSV - Comma Seperated Value Data File
+CSV - Comma Separated Value Data File
+
 Ladder/Overall Happiness - Cantril Ladder is a measure of life satisfaction.
 
 SD of Ladder/Standard Deviation of Happiness - Standard deviation of the ladder.
